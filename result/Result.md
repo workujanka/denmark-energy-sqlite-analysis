@@ -23,7 +23,8 @@ In contrast, **public power stations** maintained a relatively stable share arou
 
 This divergence reflects a broader decentralization of energy production and a shift toward community-based and renewable sources.
 
-![Alt text](relative/path/to/image.png)
+![Central and Public Power Station Comparison](Charts%20and%20Data%20Tables/Central%20and%20Public%20Power%20Station%20Comparison.png)
+
 
 ---
 
@@ -36,7 +37,7 @@ Denmark’s renewable energy transformation is most evident in the rise of wind 
 
 Together, wind and solar now account for **over 70%** of Denmark’s net electricity production, showcasing the success of long-term investment and policy support for renewables.
 
-![Alt text](relative/path/to/image.png)
+![Wind and Solar Share of Net El Energy Production](Charts%20and%20Data%20Tables/Wind%20and%20Solar%20Share%20of%20Net%20El%20Energy%20Production.png)
 
 ---
 
@@ -52,7 +53,7 @@ This growth reflects:
 
 Offshore wind is now a cornerstone of Denmark’s renewable portfolio.
 
-![Alt text](relative/path/to/image.png)
+[![Offshore Wind Growth](Charts%20and%20Data%20Tables/Offshore%20Wind%20Growth.png)](result/Charts%20and%20Data%20Tables/Offshore%20Wind%20Growth.png)
 
 ---
 
@@ -69,7 +70,8 @@ This analysis tracks annual percentage changes in net production, wind, and sola
 
 These growth rates highlight the dynamic nature of Denmark’s energy transition, with solar emerging as a fast-scaling contributor.
 
-![Danish Net Electric Energy Production from 2005 to 2024](relative/path/to/image.png)
+![Year-over-Year Growth Rates](Charts%20and%20Data%20Tables/Year-over-Year%20Growth%20Rates.png)
+
 
 ---
 
