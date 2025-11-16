@@ -10,7 +10,7 @@ Denmark’s net electricity production peaked in 2006 at over **43,000 GWh**, fo
 
 This U-shaped trend suggests a shift from legacy systems toward more efficient, renewable-based generation.
 
-![Danish Net Electric Energy Production](result/Charts and Data Tables/Danish Net Electric Energy Production from 2005 to 2024.png)](result/Charts and Data Tables/Danish Net Electric Energy Production from 2005 to 2024.png)
+[![Danish Net Electric Energy Production](result/Charts and Data Tables/Danish Net Electric Energy Production from 2005 to 2024.png)](result/Charts and Data Tables/Danish Net Electric Energy Production from 2005 to 2024.png)
 
 
 ---
